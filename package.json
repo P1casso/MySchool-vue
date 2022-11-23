@@ -1,0 +1,38 @@
+{
+  "name": "MySchool-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.0.96",
+    "@nutui/nutui": "^3.2.0",
+    "ant-design-vue": "^3.2.15",
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.2.22",
+    "hbl-comment": "^1.2.3",
+    "mescroll.js": "^1.4.2",
+    "muse-ui": "^3.0.2",
+    "roboto-fontface": "*",
+    "vant": "^3.5.3",
+    "vue": "^3.2.13",
+    "vue-axios": "^3.4.1",
+    "vue-router": "^4.0.3",
+    "vuetify": "^3.0.0-beta.0",
+    "vuex": "^4.0.0",
+    "webfontloader": "^1.0.0",
+    "wot-design": "^2.4.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "unplugin-vue-components": "^0.21.2",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "webpack-plugin-vuetify": "^2.0.0-alpha.0"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "3566388",
+  "name": "myschool",
+  "font_family": "iconfont",
+  "css_prefix_text": "mychool-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3893247",
+      "name": "社团活动",
+      "font_class": "shetuanhuodong",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "4075963",
+      "name": "社团",
+      "font_class": "shetuan",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "5667664",
+      "name": "组织-is",
+      "font_class": "isometricfenggetubiaosheji-",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "14197430",
+      "name": "志愿服务-01",
+      "font_class": "zhiyuanfuwu-01",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "23943249",
+      "name": "体育",
+      "font_class": "tiyu",
+      "unicode": "f9c9",
+      "unicode_decimal": 63945
+    }
+  ]
+}
